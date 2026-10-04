@@ -1,11 +1,12 @@
-body { background-color: white;
-      color: #000099;
+body { background-color: black;
+      color: white;
       font-family: Arial;
      }
 a href {  background-color: #CCCCCC;
        }
 h1 {    font-family: Times New Roman;
-    color: black;
+    color: #CCCCCC;
+    
    }
 .news {   color: red;
        font-family: Italic;
